@@ -1,5 +1,4 @@
-
-
+#LOGGING CONFIGURATION
 import logging as log
 
 def File_log_info(filename):
