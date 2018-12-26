@@ -1,0 +1,5 @@
+ERROR:root:write() argument must be str, not BeautifulSoup
+Traceback (most recent call last):
+  File "/home/juliusbala/BALADOSTRIX-GIT/PyWebScrapy/tools/file_handler.py", line 13, in write_content_from_page
+    file.write(data)
+TypeError: write() argument must be str, not BeautifulSoup
